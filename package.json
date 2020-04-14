@@ -1,12 +1,14 @@
 {
   "name": "worktime",
   "version": "1.0.0",
-  "description": "simply work time record tool",
-  "main": "index.coffee",
+  "main": "index.js",
   "repository": "https://github.com/Chipsnet/worktime.git",
   "author": "Minato86 <doronomori660@outlook.jp>",
-  "license": "MIT",
+  "license": "MPL-2.0",
   "dependencies": {
     "electron": "^8.2.0"
+  },
+  "scripts": {
+      "start": "electron ./src/."
   }
 }
