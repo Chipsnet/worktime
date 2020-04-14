@@ -16,3 +16,8 @@
 ## Patron
 
 keitomo [@ktmo_mov](https://twitter.com/ktmo_mov)
+
+## Donate
+
+Please donate me with Brave https://brave.com/ope682        
+more link https://minato86.me/donate.html
