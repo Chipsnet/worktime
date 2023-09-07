@@ -3,9 +3,9 @@
 
 
 "@electron/get@^2.0.0":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@electron/get/-/get-2.0.2.tgz#ae2a967b22075e9c25aaf00d5941cd79c21efd7e"
-  integrity sha512-eFZVFoRXb3GFGd7Ak7W4+6jBl9wBtiZ4AaYOse97ej6mKj5tkyO0dUnUChs1IhJZtx1BENo4/p4WUTXpi6vT+g==
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@electron/get/-/get-2.0.3.tgz#fba552683d387aebd9f3fcadbcafc8e12ee4f960"
+  integrity sha512-Qkzpg2s9GnVV2I2BjRksUi43U5e6+zaQMcjoJy0C+C5oxaKl+fmckGDQFtRpZpZV0NQekuZZ+tGz7EA9TVnQtQ==
   dependencies:
     debug "^4.1.1"
     env-paths "^2.2.0"
@@ -52,14 +52,14 @@
     "@types/node" "*"
 
 "@types/node@*":
-  version "20.5.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.4.tgz#4666fb40f9974d60c53c4ff554315860ba4feab8"
-  integrity sha512-Y9vbIAoM31djQZrPYjpTLo0XlaSwOIsrlfE3LpulZeRblttsLQRFRlBAppW0LOxyT3ALj2M5vU1ucQQayQH3jA==
+  version "20.5.9"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.9.tgz#a70ec9d8fa0180a314c3ede0e20ea56ff71aed9a"
+  integrity sha512-PcGNd//40kHAS3sTlzKB9C9XL4K0sTup8nbG5lC14kzEteTNuAFh9u5nA0o5TWnSG2r/JNPRXFVcHJIIeRlmqQ==
 
 "@types/node@^18.11.18":
-  version "18.17.9"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.9.tgz#b219fa0da3c574399f4a44455ea4b388029afd56"
-  integrity sha512-fxaKquqYcPOGwE7tC1anJaPJ0GHyOVzfA2oUoXECjBjrtsIz4YJvtNYsq8LUcjEUehEF+jGpx8Z+lFrtT6z0tg==
+  version "18.17.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.14.tgz#a621ad26e7eb076d6846dd3d39557ddf9d89f04b"
+  integrity sha512-ZE/5aB73CyGqgQULkLG87N9GnyGe5TcQjv34pwS8tfBs1IkCh0ASM69mydb2znqd6v0eX+9Ytvk6oQRqu8T1Vw==
 
 "@types/responselike@^1.0.0":
   version "1.0.0"
@@ -143,9 +143,9 @@ detect-node@^2.0.4:
   integrity sha512-T0NIuQpnTvFDATNuHN5roPwSBG83rFsuO+MXXH9/3N1eFbn4wcPjttvjMLEPWJ0RGUYgQE7cGgS3tNxbqCGM7g==
 
 electron@^26.0.0:
-  version "26.1.0"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-26.1.0.tgz#d26fefba5a5c68069b07a117d87aee1c4e5d172d"
-  integrity sha512-qEh19H09Pysn3ibms5nZ0haIh5pFoOd7/5Ww7gzmAwDQOulRi8Sa2naeueOyIb1GKpf+6L4ix3iceYRAuA5r5Q==
+  version "26.2.0"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-26.2.0.tgz#ea1f776c4754fbd387817e3aefc7c88f7171c852"
+  integrity sha512-H6Z0sYTtLcybHCQT1yti/8BK+vN5/ZfoekKcdrfZMh5mVf2Z7psFVs6nBhXPzIOyRE/gdb6NcOppnUsGc3NJVQ==
   dependencies:
     "@electron/get" "^2.0.0"
     "@types/node" "^18.11.18"
