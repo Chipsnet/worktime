@@ -6,7 +6,7 @@
   "author": "Minato86 <doronomori660@outlook.jp>",
   "license": "MPL-2.0",
   "dependencies": {
-    "electron": "^35.0.0"
+    "electron": "^36.0.0"
   },
   "scripts": {
       "start": "electron ./src/."
