@@ -50,9 +50,9 @@ debug@^4.1.0, debug@^4.1.1:
     ms "^2.1.3"
 
 electron@^42.0.0:
-  version "42.3.0"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-42.3.0.tgz#028d2f64bf69182f36fc74b72f59b48fc143f681"
-  integrity sha512-9ZiLdRXk+WDxW1OgIUz8J2rIQ5TYU9o629gCOjU48Q3dQiOmym7osWsH5Ubs/Jh4uuFLn6m6SBD2rmRXLAPz9g==
+  version "42.3.1"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-42.3.1.tgz#fbba8ed23ffead7760d9b840615aca331ea37d93"
+  integrity sha512-srUkulADc2QNJKlhxYU+wSaGEQ/Wbz/F3ko3DzUhNyvtWkP0XCTdGwKAOX1q4z1bVlWYZT7LV7APFmUAGTFykg==
   dependencies:
     "@electron/get" "^5.0.0"
     "@types/node" "^24.9.0"
@@ -153,9 +153,9 @@ undici-types@~7.16.0:
   integrity sha512-Zz+aZWSj8LE6zoxD+xrjh4VfkIG8Ya6LvYkZqtUQGJPZjYl53ypCaUwWqo7eI0x66KBGeRo+mlBEkMSeSZ38Nw==
 
 undici@^7.24.4:
-  version "7.26.0"
-  resolved "https://registry.yarnpkg.com/undici/-/undici-7.26.0.tgz#d413a2b5752e3e71e003bb268dec32b9a0ad0ce7"
-  integrity sha512-3O9Tf67pGhgOv9jM35AbhkXAKi13f3oy3aE4CSgr+TckGeY+/iu97ZXN+J7DpHPzLbVApFd1IFhcnBjREYXYcg==
+  version "7.27.0"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-7.27.0.tgz#8f1d99dfc28273fe8a5736aa93a507850fda78c9"
+  integrity sha512-+t2Z/GwkZQDtu00813aP66ygViGtPHKhhoFZpQKpKrE+9jIgES+Zw+mFNaDWOVRKiuJjuqKHzD3B1sfGg8+ZOQ==
 
 wrappy@1:
   version "1.0.2"
