@@ -22,9 +22,9 @@
     undici "^7.24.4"
 
 "@types/node@^24.9.0":
-  version "24.19.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-24.19.0.tgz#becd0549e091f749520b8db8a446ec1559c88a0b"
-  integrity sha512-zY+5tKxXdhGh1PYI0ac+7juvEu4OI6vWtVVoj5i2m42jxAY1U+zHGt6QCyOFwykdP62sM3MJ9stoYYUw5aCWew==
+  version "24.19.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-24.19.1.tgz#3a1c3ed9e9fc94fe48d4a72d83dfd0bfcf379c62"
+  integrity sha512-aS3/DG0oM05K0RIXXP+hKjinGG5IgSSVGzswZxW3O0sS3pH4/fycXundUC9XsszgKCk4gHXylTEK6hyFxVxnoQ==
   dependencies:
     undici-types ">=7.24.0 <7.24.7"
 
@@ -36,9 +36,9 @@ debug@^4.1.0, debug@^4.1.1:
     ms "^2.1.3"
 
 electron@^44.0.0:
-  version "44.5.1"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-44.5.1.tgz#6a1d94f24886ce61a16946b4a9c688e61cec2e40"
-  integrity sha512-lx7AYoFIiyvEvgvpyWO9kOC60xtNPpiPZAth6Fmg9NutzpCAMLwpUlaBY2EXfZyIgUdzEmLMj9KvK0Vrokl1yQ==
+  version "44.6.0"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-44.6.0.tgz#837d494094d48da9d96924a696ef14fb275d529b"
+  integrity sha512-qjzKZ82yTsAoo0Q/gqdy4PEMQkzYpukZqIduaHWZYHapFhK9wgWwU4YId60xHmwTCraqF4AfVCm05o90dZJKMQ==
   dependencies:
     "@electron-internal/extract-zip" "^1.0.1"
     "@electron/get" "^5.0.0"
