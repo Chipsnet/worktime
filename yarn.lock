@@ -36,9 +36,9 @@ debug@^4.1.0, debug@^4.1.1:
     ms "^2.1.3"
 
 electron@^45.0.0:
-  version "45.3.3"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-45.3.3.tgz#eeec0123cf0a0dd622f03be2ffd6334064071a4a"
-  integrity sha512-YS01j/AMWGbPAfbXijkLOUJGFhmrIg6pf9An8+LzY1PIc5sjwqEcSMsEBXgUQiWw1lSfPCP7RpxbvkN1JQRD8A==
+  version "45.3.4"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-45.3.4.tgz#5017ed70eb76ec8039e9d0fe193ab88332c0fd6b"
+  integrity sha512-cqU5u6arfGd9KJvCODjj32ckxkDQbweTL3v8J51tAsKGmDWYKcAqszvie0NDKBIGl6Ze19QTL74yIAUHrqNDig==
   dependencies:
     "@electron-internal/extract-zip" "^1.0.1"
     "@electron/get" "^5.0.0"
